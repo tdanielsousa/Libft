@@ -10,7 +10,7 @@ These functions all obey `norminette` an automated tool (linter) that checks C c
 
 ---
 
-## 🛠️ Functions
+##  Functions
 
 ### 1. Libc Functions (Recreated Standard C Functions)
 These functions mimic the behavior of their original counterparts in <ctype.h>, <string.h>, and <stdlib.h>.
